@@ -1,0 +1,46 @@
+[•• WARNING••]
+
+IF YOU DON'T WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATE CHECKING IN "InstaGold Settings > Service > Disable updates".
+
+
+××××××××
+
+InstaGold V15.0.1 Update Details:
+
+
+• The method of copying and translating comments has been changed.
+
+• Fixed some critical crashes on some devices.
+
+• Fixed the display bug of the lock screen background.
+
+• Fixed some invisible icons.
+
+• The basic Instagram version has been updated to version 215.0.0.27.359.
+
+• 'Mark as read' feature optimized, it works faster and more stable than previous AeroInsta version!
+
+• The download feature has been optimized, it works more stable!
+
+• Optimized long tap on profile to see profile picture in comments.
+
+• The typewriter font change feature is now stable!
+
+• Other minor fixes and optimizations...
+
+
+
+
+××××××××
+[•• COLORS ••]
+
+- Default
+- Gold
+- Red
+- Extra Darkness
+- Blue
+- Coral Pink
+- Green
+- Highlight
+- Bright Purple
+- Bright Pink
